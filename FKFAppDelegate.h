@@ -1,0 +1,2 @@
+@interface FKFAppDelegate : NSObject
+@end

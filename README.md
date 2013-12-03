@@ -1,0 +1,3 @@
+This project is a simplified version of the famous [SimFinger](https://github.com/atebits/SimFinger) which is outdated and hated by OS X Mavericks because of Accessibility APIs.
+
+FakeFinger does not work with iOS Simulator, it only replaces the cursor with a finger while the app is running. Here is a use case by David Smith: [Creating Animated GIFs for Documentation](http://david-smith.org/blog/2013/12/02/creating-animated-gifs-for-documentation/).
